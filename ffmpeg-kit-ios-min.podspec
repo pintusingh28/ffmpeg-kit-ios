@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name             = 'ffmpeg-kit-ios-https'
+  s.name             = 'ffmpeg-kit-ios-min'
   s.version          = '6.0.0'
   s.summary          = 'Locally built FFmpegKit xcframeworks'
-  s.description      = 'Replacement for ffmpeg-kit-ios-https using local xcframeworks'
+  s.description      = 'Replacement for ffmpeg-kit-ios-min using local xcframeworks'
   s.homepage         = 'https://github.com/pintusingh28/ffmpeg-kit-ios'
 #   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Pintu Singh' => 'singhpintu.8089@gmail.com' }
