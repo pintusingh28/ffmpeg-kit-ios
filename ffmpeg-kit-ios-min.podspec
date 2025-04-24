@@ -10,13 +10,13 @@ Pod::Spec.new do |s|
   s.source           = { :path => '.' }
 
   s.vendored_frameworks = [
-    'FFmpegKitMin/ffmpegkit.xcframework',
-    'FFmpegKitMin/libavcodec.xcframework',
-    'FFmpegKitMin/libavdevice.xcframework',
-    'FFmpegKitMin/libavfilter.xcframework',
-    'FFmpegKitMin/libavformat.xcframework',
-    'FFmpegKitMin/libavutil.xcframework',
-    'FFmpegKitMin/libswresample.xcframework',
-    'FFmpegKitMin/libswscale.xcframework'
+    'ffmpeg-kit-ios-min/ffmpegkit.xcframework',
+    'ffmpeg-kit-ios-min/libavcodec.xcframework',
+    'ffmpeg-kit-ios-min/libavdevice.xcframework',
+    'ffmpeg-kit-ios-min/libavfilter.xcframework',
+    'ffmpeg-kit-ios-min/libavformat.xcframework',
+    'ffmpeg-kit-ios-min/libavutil.xcframework',
+    'ffmpeg-kit-ios-min/libswresample.xcframework',
+    'ffmpeg-kit-ios-min/libswscale.xcframework'
   ]
 end
